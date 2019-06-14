@@ -68,7 +68,7 @@
     {
       "protocol": "blackhole",
       "settings": {},
-      "tag": "blocked"
+      "tag": "block"
     }
   ],
 
